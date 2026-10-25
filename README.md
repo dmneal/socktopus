@@ -1,3 +1,5 @@
+> **Retired source repository.** Active web development now lives in the private [devinneal.com platform](https://github.com/dmneal/devinneal.com). Play at the [family arcade](https://devinneal.com/arcade/). Pre-migration history is preserved here and was imported into the platform. Local character agents are maintained separately in `dmneal/arcade-characters`.
+
 # Socktopus Laundry Rescue
 
 Touch, mouse and keyboard game. Play at https://devinneal.com/arcade/socktopus/.
